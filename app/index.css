@@ -1,0 +1,7 @@
+div {
+    font-weight: bold;
+    font-style: italic;
+    background-image: url('./cat.png');
+    height: 200px;
+    margin: 10px auto;
+}
